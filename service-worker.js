@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a88fcdab7c742067714b51d3d8156272"
+    "revision": "eb7ab94c7deb615bee0ade8d1f3ee29d"
   },
   {
     "url": "assets/css/0.styles.eca9cdf0.css",
@@ -218,16 +218,16 @@ self.__precacheManifest = [
     "revision": "afff5fdf8ba8965476c9541159ac9b58"
   },
   {
-    "url": "assets/js/app.047a8145.js",
-    "revision": "5ed0ee78e42e13312b114a9338ee6207"
+    "url": "assets/js/app.e2a4835e.js",
+    "revision": "7251f25701a5068f4793451252878744"
   },
   {
     "url": "governance/index.html",
-    "revision": "a9a738304b198b45de70598e1c25c011"
+    "revision": "7876c2ee7fd5893bf878e97d965ddf95"
   },
   {
     "url": "index.html",
-    "revision": "89cd94432d55ce161a2fd657e2c0bcfa"
+    "revision": "04c8a868aa4bd8181a63f1915daaa64d"
   },
   {
     "url": "logo-fit.png",
@@ -307,23 +307,23 @@ self.__precacheManifest = [
   },
   {
     "url": "privacy/index.html",
-    "revision": "a17b1eca2438ef45081e6e2905620a04"
+    "revision": "ce33128d1383246257b3901a4a609a0d"
   },
   {
     "url": "projects/arena/index.html",
-    "revision": "74a2bae59b4033957164f32c218c3c03"
+    "revision": "04c36e4e001ea13f94ea67c283a4d895"
   },
   {
     "url": "projects/index.html",
-    "revision": "bcd5cc440841f870c38e8c6d14efe8a4"
+    "revision": "af17b91c1baee03e399032fdc6670c5e"
   },
   {
     "url": "projects/podcast/index.html",
-    "revision": "d64582da23698887089cc639c398e511"
+    "revision": "d7db32bb5a2c13e792bc60fe90446a05"
   },
   {
     "url": "projects/tavern/index.html",
-    "revision": "06ae5aed6fcef0db8666d5836467ec1a"
+    "revision": "641017d24647790c3ef3566676d99074"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
