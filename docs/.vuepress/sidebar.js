@@ -5,7 +5,8 @@ module.exports = {
       children: [
         '/projects/tavern/',
         '/projects/podcast/',
-        '/projects/arena/'
+        '/projects/arena/',
+        '/projects/radion/'
       ]
     },
   ]
