@@ -6,6 +6,7 @@ module.exports = {
         '/projects/tavern/',
         '/projects/podcast/',
         '/projects/arena/'
+        '/projects/radion/'
       ]
     },
   ]
