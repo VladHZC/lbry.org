@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "daa6d2f9de0100bc49372841f34acb79"
+    "revision": "c254dc22ce6ab87c7fdadc7c693e0538"
   },
   {
     "url": "assets/css/0.styles.eca9cdf0.css",
@@ -178,8 +178,8 @@ self.__precacheManifest = [
     "revision": "c10cf9f60f399f291b6ca536f67656bf"
   },
   {
-    "url": "assets/js/18.2dd2d10d.js",
-    "revision": "9d21d2672046e15afcf15103ae0c2ad4"
+    "url": "assets/js/18.49a53487.js",
+    "revision": "491f2952192bf57048130e7c598accf6"
   },
   {
     "url": "assets/js/19.9a07bc76.js",
@@ -198,12 +198,12 @@ self.__precacheManifest = [
     "revision": "c54512be7f3aaf959722f75a322d0c25"
   },
   {
-    "url": "assets/js/22.4680f45b.js",
-    "revision": "568d70491a50cf4de16a717fe5d3686b"
+    "url": "assets/js/22.1db9c318.js",
+    "revision": "dfc4bb84ab6dca9ea9b059ad9b0f9830"
   },
   {
-    "url": "assets/js/23.5bfbdbad.js",
-    "revision": "6f604596373bbaa54a53c5f194f13a03"
+    "url": "assets/js/23.dcdd4849.js",
+    "revision": "9f4b84b86cf0dd76fef8a99c40ae5b53"
   },
   {
     "url": "assets/js/24.1928ce87.js",
@@ -242,32 +242,32 @@ self.__precacheManifest = [
     "revision": "73ae6a797ef9215ebb4f34ad661b52f4"
   },
   {
-    "url": "assets/js/app.5998a5ef.js",
-    "revision": "0a2242463280ad12881d88d83cdc5b8e"
+    "url": "assets/js/app.03bf28d6.js",
+    "revision": "b4e6fd800ed618c8a5d3463e1fa0c082"
   },
   {
     "url": "governance/creators-council/index.html",
-    "revision": "e2817cde862ad742a8a88843893786f6"
+    "revision": "7c71ff0f0426244b2cde71c6878d8b96"
   },
   {
     "url": "governance/curators/index.html",
-    "revision": "7540e6cefdbe2ee023ce91a4340834b0"
+    "revision": "a01c15b65937a030ab7c2b0b33cba847"
   },
   {
     "url": "governance/index.html",
-    "revision": "390eda15a00d7b2909e272cec8e09091"
+    "revision": "97f3e30b6cf2f069fbfb12aff9614cd8"
   },
   {
     "url": "governance/marketing/index.html",
-    "revision": "5149a5bdd984ea5e2121a979aa04d339"
+    "revision": "eaf0894a898fb07ce5ce600c7f9f0b94"
   },
   {
     "url": "hives/index.html",
-    "revision": "f9226d4ff62d0564b2f6250761610b0a"
+    "revision": "0694c8a1442ef3a4a92d5e34fbe5298b"
   },
   {
     "url": "index.html",
-    "revision": "ccf633c2df5daf5829c2fa184794bbb3"
+    "revision": "2f6e9edccc5d28c1a7c063b9953bd54a"
   },
   {
     "url": "logo-fit.png",
@@ -347,31 +347,31 @@ self.__precacheManifest = [
   },
   {
     "url": "privacy/index.html",
-    "revision": "eca46237e20bd7c97980cae00cf362cc"
+    "revision": "9c5122cac267056de8d3df65046c7c72"
   },
   {
     "url": "projects/arena/index.html",
-    "revision": "b7320ea052603dba0ba1e083a6f46101"
+    "revision": "6fbc08dc1928dafcb57f3761c07c1edf"
   },
   {
     "url": "projects/index.html",
-    "revision": "f85731df41f1915d212a675baaa60e74"
+    "revision": "7a007fa89d464c35ce5333df735b7008"
   },
   {
     "url": "projects/podcast/index.html",
-    "revision": "ac5b6e2c7c7d48e24885b710309b581d"
+    "revision": "14a326061bf6da87b3831b02337de693"
   },
   {
     "url": "projects/radio/index.html",
-    "revision": "130a9a23934144ea06c5115136c1fe47"
+    "revision": "66ec0cfc88841f5bb6be5f43640b8634"
   },
   {
     "url": "projects/tavern/index.html",
-    "revision": "8cd46689eb7e68d8db11f3eee61874a2"
+    "revision": "ea50ee8cbdd78d228b529e5503657b0e"
   },
   {
     "url": "verified/index.html",
-    "revision": "63c7624d543f044c9d4b48b568b194fa"
+    "revision": "b7b4f42a370844e02ea4a73406ecd6fa"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
