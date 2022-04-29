@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "d79cc7079470712f9ca72fcfe143099c"
+    "revision": "d6e4633249ebd95817362847bb0e5633"
   },
   {
     "url": "assets/css/0.styles.eca9cdf0.css",
@@ -254,32 +254,32 @@ self.__precacheManifest = [
     "revision": "67edde92e2da47e462aeb31cbd59a475"
   },
   {
-    "url": "assets/js/app.5a4a3510.js",
-    "revision": "b3ff91c83efa7a59904c61754e17a25a"
+    "url": "assets/js/app.2d73beee.js",
+    "revision": "6cac78d881c52ef3f96d8261c671e3d3"
   },
   {
     "url": "governance/creators-council/index.html",
-    "revision": "a25b7728e7a4f86d8db8fd24c27b15f0"
+    "revision": "79ff5f921734e89a79ce22bcb38c807e"
   },
   {
     "url": "governance/curators/index.html",
-    "revision": "2ff107c8a1ba3201ab7df7ecc3123b5f"
+    "revision": "b61043966b7b205d791f72956c14b243"
   },
   {
     "url": "governance/index.html",
-    "revision": "bd9b3fa58f428dda00692e174c0bf735"
+    "revision": "b5494330bb8d94eee3cbb8b15d547a3d"
   },
   {
     "url": "governance/marketing/index.html",
-    "revision": "ec7bc363ef527c21590db049a862c06a"
+    "revision": "452952f0845f9c7d8cbc1f824b1b264e"
   },
   {
     "url": "hives/index.html",
-    "revision": "db57d258dd4bf1f7e2a4c19cde249a0b"
+    "revision": "e023aa93337cee65d0a143dae8cfcd1c"
   },
   {
     "url": "index.html",
-    "revision": "9db556deec5c0ec981e8007482839b92"
+    "revision": "253817e9a19144f43ee9d7c77b93b127"
   },
   {
     "url": "logo-fit.png",
@@ -359,43 +359,43 @@ self.__precacheManifest = [
   },
   {
     "url": "privacy/index.html",
-    "revision": "990977b0f68f5c7e986653826df543bc"
+    "revision": "cfb73ad96635af2bee559f09380eb71d"
   },
   {
     "url": "projects/arena/index.html",
-    "revision": "1986eaba7b9d114f6c3ef3da10a4f566"
+    "revision": "bd1a0254b0975bcb3e504eece9b0d11a"
   },
   {
     "url": "projects/index.html",
-    "revision": "e962499bbfa14b41e161ea2651223a4f"
+    "revision": "aba6c9fcdbff5eef7ecba4b7a4ad735e"
   },
   {
     "url": "projects/podcast/index.html",
-    "revision": "e19ddc478c2286cd3be1d31b75ec4e39"
+    "revision": "a920b29bbb1e1cc1716a1ae9d19d9602"
   },
   {
     "url": "projects/radio/index.html",
-    "revision": "08780551eceb1958c49e7ea9be8c2ec3"
+    "revision": "cfb7648482edada8d56d21b4ec1cc017"
   },
   {
     "url": "projects/swarm/index.html",
-    "revision": "b575d67999414d8223b41f21a6df1c7d"
+    "revision": "a5b72f6549dce7ecfa38c903db249f03"
   },
   {
     "url": "projects/tavern/index.html",
-    "revision": "278d276e681e1de80ba1e4d8d6d5d560"
+    "revision": "e7b18d36c8e2af437fcdadde9f92f1d8"
   },
   {
     "url": "roadmap/index.html",
-    "revision": "fa7c256a4f9783736fb327b1e50235c0"
+    "revision": "6c9745cf2d8bbe6f1a0cc8fac51d3f96"
   },
   {
     "url": "verified/index.html",
-    "revision": "2d9bb9ef48327772c5b2d0cfb213158e"
+    "revision": "64429c715f12ecd91f6cadab3e2e3e35"
   },
   {
     "url": "verify/index.html",
-    "revision": "b2962a673296f7eb56ad877e380e896e"
+    "revision": "389c2741a7858bf7759b89e51efaee9c"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
